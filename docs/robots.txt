@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uconnecthelps.readthedocs.io/en/latest/
