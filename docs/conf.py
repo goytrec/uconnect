@@ -23,3 +23,6 @@ html_favicon = '_static/favicon.png'
 html_context = {
     'bing_verification_code': '59FDF959BB464F16C29E6DC18623CEF1'
 }
+
+# Base URL for sitemap
+html_baseurl = 'https://uconnecthelps.readthedocs.io/en/latest/'
